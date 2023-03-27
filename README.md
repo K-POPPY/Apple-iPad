@@ -1,5 +1,9 @@
-
+[![vercel배포](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white)](https://vercel.com/k-poppy/apple-ipad)
 # Apple iPad 10.2 (KR) _ Clone Coding
+
+[![AppleLogo](https://apple-ipad-azure.vercel.app/images/environment_icon.png)](https://apple-ipad-azure.vercel.app/) - iPad
+
+<a href="https://apple-ipad-azure.vercel.app/">Main Page</a> 
 
 - 웹표준과 웹접근성을 준수 / 시멘틱마크업 & BEM 네이밍규칙 사용
 - 검색아이콘 클릭시 검색바 노출과 헤더 메뉴 사라지는 애니매이션 구현, 검색바 빠져나가면 검색바에 타이핑 했던 텍스트 초기화
